@@ -17,3 +17,4 @@ Because **discipline** is the key, and small changes are easier to make than big
 The folder `myPSP` has content as follows:
 
 - `Scripts`: This folder has the definition of my personal process which I am currently using.
+- `PEPs`: This folder has the Process Enhancement Proposals (PEPs) which I plan to build into my work habit.
