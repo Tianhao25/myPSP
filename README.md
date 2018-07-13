@@ -4,13 +4,13 @@
 
 `myPSP` is my own implementation of [Personal Software Process (PSP)](https://en.wikipedia.org/wiki/Personal_software_process). PSP is a self-improvement software process for software engineers to improve the work quality precisely, quantitatively, and continously.
 
-The key to excellent PSP is **discipline**. Without discipline one could hardly achieve anything. However, discipline is a quality that most people are in lack of, because it counters human's nature of laziness.
-
 This repository is a (yet-another) attempt to equip myself with this methodology that I believe can help me work increasingly better. I want to become an outstanding software engineer. I don't want to die silently as a mediocrity.
 
-## Strategy
+The "yet another" means I had tried several times before but didn't make through it eventually. I reflected on what I did and realized the three keys to successful execution of the practice:
 
-Because **discipline** is the key, and small changes are easier to make than bigger ones, I plan to employ [the idea of incrementalism](http://freakonomics.com/podcast/in-praise-of-incrementalism/): **define my baseline process, and improve bit by bit**. Fortunately, I am not starting out of nothing. In the past four years, I have built up the habit to record my time consumption every day. Recording the time is one of the key activities in producing data for predictable work estimation, and I know it is an activity that few can keep doing. This gives me some confidence that I can achieve what I want to do, as long as I concentrate on it.
+- **Incrementalism:** PSP practice requires a lot of **discipline**. To some extent, I think I need to train myself to work like a "robot" which can follow the defined process under any circumstances. Unfortunately, discipline is something people generally hate because it counters the human nature of freedom and laziness. This is why incrementalism is helpful: changing a lot of behaviors all in once is a lot harder than changing one of them a time. I need to keep reminding me of not rushing but making small and firm progress.
+- **Being practical:** When I tried to do PSP previously, I set up a milestone that was very different than what I was actually doing daily. Although that reflected my eagerness to change my situation to become better, that essentially broke the rule of _incrementalism_: the gap between the ideal and the reality was just too large to leap over in one step.
+- **Stick in tough situation:** When I didn't experience a lot of schedule pressure at work, I could kind of follow the PSP practice. However, when I started to face schedule pressure, I threw it away immidiately: no planning, no estimating, just hacking. Again, _incrementailism_ may help because I don't need to perform too differently than what I can already perform as a routine. Then, as long as I could have some reminder mechanism, it should be easier to still follow the practice under pressure.
 
 ## Artifacts
 
