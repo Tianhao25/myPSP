@@ -17,4 +17,5 @@ The "yet another" means I had tried several times before but didn't make through
 The folder `myPSP` has content as follows:
 
 - `Scripts`: This folder has the definition of my personal process which I am currently using.
+- `Reviews`: This folder has the reflections upon the execution of my personal process.
 - `PEPs`: This folder has the Process Enhancement Proposals (PEPs) which I plan to build into my work habit.
