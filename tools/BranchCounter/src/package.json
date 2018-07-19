@@ -1,0 +1,10 @@
+{
+    "name": "branch-counter",
+    "version": "0.0.1",
+    "private": true,
+    "dependencies": {
+        "fs": "0.0.1-security",
+        "oid": "^1.2.0",
+        "uglify-js": "^3.4.5"
+    }
+}
