@@ -8,6 +8,7 @@ This document contains the tools that can help enhance the software engineering 
 
 - [Checklist.md](Checklist.md): My own checklist to make sure I don't repeat the same mistakes.
 - [Codecov.io](https://codecov.io/): Code coverage done right. Enhancing development workflows and improving code quality.
+- [Template-How-to-learn-a-tech.md](Template-How-to-learn-a-tech.md): The aspects to pay attention to when learning a technology.
 - [YouTrack](https://www.jetbrains.com/youtrack/): An issue tracking system.
 
 ## YouTrack
