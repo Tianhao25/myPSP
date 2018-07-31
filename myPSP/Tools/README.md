@@ -25,3 +25,12 @@ Sometimes, after you finish a sub-task, you are not clear what to do next. You n
   - Sub-task 3 (Estimated: 1h30m; Spent: 2h)
 
 In the example above, the total spent time (5h) is more than the sum of all the sub-tasks' spent time (3h50m). This is because of the additional time spent on thinking about what to do next.
+
+## Reminder
+
+It's very easy to forget planning in the morning, task scope management, or the reflection at the end of the day. Creating reminders is useful:
+
+- Morning planning reminder: Set at the some time before you arrive at the office.
+- Scope control reminder: Set as a periodical one during the day, such as once per hour, so you can manage the scope before you go too far.
+- Evening reflection reminder: Set at the time before you leave the office.
+
