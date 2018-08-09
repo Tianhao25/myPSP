@@ -1,0 +1,85 @@
+# myPSP Script
+
+## Overview
+
+This script defines my daily work process, including the activities, outputs, and measurements. The purpose is twofold:
+
+- For me, the process helps find out what I can improve in order to do my work better.
+- For employer, the process helps produce results of higher and higher quality.
+
+This script has the following sections:
+
+- `Version` shows the version of the current script. I'm using `yyyy-mm-dd` as the version number because I don't expect many changes within one day. I am not using [`Semantic Versioning`](https://semver.org/) because it is designed for software products but this product doesn't have the concepts like "API", "backward-compatibility", or "patch".
+- `Purposes` define what specific areas I want to improve in the work I do for my current employer.
+- `Definition` has the detailed definition of my personal software process.
+- `Glossary` defines the terms used in this script that may not be known to everybody.
+
+## Version
+
+2018-08-09
+
+## Purposes
+
+| Purpose | Measurements | Notes |
+|:--------|:-------------|:------|
+| Find as many bugs as possible before the delivery of my task. | The number of bugs that are found after I publish my work. ||
+| Increase my throughput so I can get as many tasks done as possible. | The number of my Pull Requests that are ready for review and merge in one week. I don't use the number of _merged_ Pull Requests because the review depends on others availability. If I use the merged number, that also measures the others' throughput, not just mine. ||
+
+## Definition
+
+### Planning
+
+Set up a reminder for this phase.
+
+At this phase, I plan the tasks I want to work on for the day. The planned tasks come from the following sources:
+
+- Emails
+- Slack messages
+- GitHub issues
+- YouTrack issues
+
+For each task, I need to do the following activities:
+
+| Step | Activity | Output | Note |
+|:----:|:---------|:-------|:-----|
+| 1 | Determine task priority. | Task priority ||
+| 2 | Understand task context. | Whose work is this task related to; when is this task supposed to be finished ||
+| 3 | Figure out the task roadmap. | Task roadmap | [1] [2] |
+| 4 | Determine the task estimate. | Task estimate | [1] [2] |
+
+Notes:
+
+- [1] If I can't develop a roadmap for a task, it means the task is not quite ready for implementation and I should set up a probe task to resolve all the uncertainties first.
+- [2] How to plan a probe task:
+  - Time-box it, such as one or two hours.
+  - In the time box, it's free to do anything to explore the territory of uncertainty.
+  - At the end of the time box (or anytime as long as I think I have collected enough information), I need to review the task and decide what to do next (maybe it would be another probe task).
+
+### Development
+
+At this phase, I work on the tasks according to the priorities from the highest to the lowest.
+
+For each task, I need to do the following activities:
+
+| Step | Activity | Output | Note |
+|:----:|:---------|:-------|:-----|
+| 1 | Log the time I spend on the task. | Task time log ||
+| 2 | Take breaks periodically to review if I work beyond the task scope. |||
+
+### Reflection
+
+Set up a reminder for this phase.
+
+At this phase, I reflect upon my whole day's work in the following aspects:
+
+| Aspect | Output | Note |
+|:-------|:-------|:-----|
+| Whether I have followed the defined process. | Reflection notes ||
+| Any other thoughts on what I can improve. | Reflection notes ||
+
+## Glossary
+
+| Term | Definition | Note |
+|:----:|:-----------|:-----|
+| Task roadmap | A list of things that to be done in order to finish the task. Developing the roadmap requires some insight into the task composition. ||
+| Probe task | A probe task is a time-boxed task that resolves the uncertainties of another task, hoping that the completion of the probe task can provide more information to the other task in order for me to give an estimate. ||
