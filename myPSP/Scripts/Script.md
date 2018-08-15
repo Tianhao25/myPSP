@@ -16,7 +16,7 @@ This script has the following sections:
 
 ## Version
 
-2018-08-09
+2018-08-15
 
 ## Purposes
 
@@ -34,6 +34,7 @@ Set up a reminder for this phase.
 At this phase, I plan the tasks I want to work on for the day. The planned tasks come from the following sources:
 
 - Emails
+- Calendar
 - Slack messages
 - GitHub issues
 - YouTrack issues
