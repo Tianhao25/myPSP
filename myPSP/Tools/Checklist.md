@@ -17,6 +17,13 @@
   - [ ] The code is written in a way that is friendly to unit tests.
   - [ ] All the existing unit tests must pass.
   - [ ] Maximize the test coverage. If some code is not covered, give reasonable explanation.
+- File copying/moving (refer to the [shutil documentation](https://docs.python.org/3/library/shutil.html)):
+  - [ ] Test the following cases:
+    - 1). Target path does not exist.
+    - 2). Target is a file/directory.
+    - 3). Permission.
+    - 4). A file/directory of the same name already exists.
+    - 5). The target path is the same as the source path (copying/moving the same file).
 
 ## Git
 
