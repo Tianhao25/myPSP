@@ -122,3 +122,5 @@ This commit fixes:
 - [ ] Date & time: Try to use ISO 8601 format, which is specified by `date -I`.
 - [ ] Date & time: Always consider timezone.
 - [ ] chown: Consider both user and group.
+- [ ] Use Ansible playbooks for machine deployment.
+  - Playbooks are supposed to be idempotent so if they are written correctly, you can fix your installation by iteratively refining the playbooks. The **point** is: try to avoid manual work because it's hardly repeatable.
